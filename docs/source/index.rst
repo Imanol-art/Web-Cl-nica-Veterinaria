@@ -44,11 +44,11 @@ Las herramientas que estaremos utilizando para llevar a cabo este software son l
 
 Planificación
 --------
-| Encabezado 1 | Encabezado 2 |
-|---------------|---------------|
-| Celda 1      | Celda 2      |
-| Celda 3      | Celda 4      |
-
+**Todo esto se llevara acabo a partir de 19 de agosto de 2024**
+**Propuesta de investigación:** Lunes
+**Requerimientos:** Martes
+**Implementación del prototipo:** Miercoles
+**Programación:** Jueves y viernes
 Requisitos no funcionales
 --------
 El sistema tendrá una interfaz única y sencilla donde el veterinario podrá navegar y será el uso del mismo.
@@ -63,4 +63,4 @@ Las pruebas que haremos con el sistema será con el servidor Xamp antes de subir
 
 Arquitectura del sistema
 --------
-
+En esta parte de la arquitectura se pretende hacer un diseño agradable para el veterinario donde sea facil de usar y pueda de igual forma realizar lo mencionado en los requisitos funcionales.
