@@ -45,10 +45,15 @@ Las herramientas que estaremos utilizando para llevar a cabo este software son l
 Planificación
 --------
 **Todo esto se llevara acabo a partir de 19 de agosto de 2024**
+
 **Propuesta de investigación:** Lunes
+
 **Requerimientos:** Martes
+
 **Implementación del prototipo:** Miercoles
+
 **Programación:** Jueves y viernes
+
 Requisitos no funcionales
 --------
 El sistema tendrá una interfaz única y sencilla donde el veterinario podrá navegar y será el uso del mismo.
