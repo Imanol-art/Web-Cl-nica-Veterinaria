@@ -24,4 +24,7 @@ El software debe que registrar los datos del cliente como los datos de la mascot
 
 Requisitos funcionales
 --------
-
+| Identificación del requerimiento | RF1 |
+| --- | --- |
+| Nombre del requerimiento | Iniciar sesión |
+| Características | El veterinario deberá de iniciar sesión en el sistema para poder acceder al mismo. |
