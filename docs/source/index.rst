@@ -25,3 +25,38 @@ El software debe que registrar los datos del cliente como los datos de la mascot
 Requisitos funcionales
 --------
 **Iniciar sesión:** El veterinario deberá iniciar sesión en el sistema para poder acceder al mismo y el sistema debe permitir al  veterinario iniciar sesión.
+
+**Registrar cliente:** El cliente deberá dar sus datos al veterinario para que pueda registrarlo en el sistema y el sistema debe permitir guardar estos datos del cliente.
+
+**Registrar mascota:** El cliente debera dar los datos de su mascota para que el veterinario los registre y el sistema debe permitir guardar estos datos.
+
+Información auditoria y legacy del proyecto
+--------
+El veterinario podrá hacer sus registros desde un móvil o equipo de computo.
+
+Alcances del sistema
+--------
+El alcance que tiene el software en esta veterinaria será privada ante otras veterinarias ya que será un software único para dicha veterinaria. Esto ayudara que los clientes queden satisfechos en no tardar a la de registrar sus datos
+
+Herramientas utilizadas
+--------
+Las herramientas que estaremos utilizando para llevar a cabo este software son las siguientes: HTML, CSS, PHP, XAMP, BOOSTRAP y un Hosting para el sistema. También en ese Hosting deberá de tener un manejador de Base de Datos ya que ahí guardaremos toda la información de las mascotas y clientes.
+
+Planificación
+--------
+
+Requisitos no funcionales
+--------
+El sistema tendrá una interfaz única y sencilla donde el veterinario podrá navegar y será el uso del mismo.
+
+Instalación
+--------
+Este software deberá de tener un login para que el veterinario pueda iniciar sesión con usuario y contraseña encriptada que solo el sabrá y podrá hacerlo en línea así que no necesitara un tipo de instalación porque es web lo que si podrá necesitar es pagar el hosting de ya sea anual o mensual.
+
+Especificaciones de prueba y ejecución
+--------
+Las pruebas que haremos con el sistema será con el servidor Xamp antes de subirlo a un hosting ahí verificaremos que los registros se guarden correctamente como de igual forma pueda logiarse para poder ingresar al sistema.
+
+Arquitectura del sistema
+--------
+
