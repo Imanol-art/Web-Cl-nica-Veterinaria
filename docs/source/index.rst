@@ -44,6 +44,10 @@ Las herramientas que estaremos utilizando para llevar a cabo este software son l
 
 Planificación
 --------
+| Encabezado 1 | Encabezado 2 |
+|---------------|---------------|
+| Celda 1      | Celda 2      |
+| Celda 3      | Celda 4      |
 
 Requisitos no funcionales
 --------
