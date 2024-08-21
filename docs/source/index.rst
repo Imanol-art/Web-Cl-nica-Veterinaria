@@ -24,3 +24,4 @@ El software debe que registrar los datos del cliente como los datos de la mascot
 
 Requisitos funcionales
 --------
+**Iniciar sesión:** El veterinario deberá iniciar sesión en el sistema para poder acceder al mismo y el sistema debe permitir al  veterinario iniciar sesión.
